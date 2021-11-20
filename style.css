@@ -124,7 +124,7 @@ section h1{
 }
 
 
-@media all and (max-width:480px) {
+@media all and (max-width:600px) {
    section h1{
        font-size: 70px;
    }
